@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$D9VL9Ha9TXVCR7JI.0sOI.66wgepub.tqHTj6.r0Xec4eLFU/GQv2",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 1,
+      "permission": 1
+    },
+    {
+      "email": "ziriguidunho2@mail.com",
+      "password": "$2a$10$fsTQdLfPmWlepo1lZU3mf.oAcczNz5c1jEeJWgD/HhTJmQ7I8rQiu",
+      "firstname": "ziriguidunhor",
+      "lastname": "da gama",
+      "age": 32,
+      "id": 2,
+      "permission": 2
+    },
+    {
+      "email": "felipe@email.com",
+      "password": "$2a$10$YC79A1ffQm2NW/AQSh3Y0e1nwybtTwMONQOmh7aYg.u.SzcWrrhva",
+      "firstname": "felipe",
+      "lastname": "matheus",
+      "age": 28,
+      "permission": 1,
+      "id": 3
+    },
+    {
+      "email": "felipe774@gmail.com",
+      "password": "$2a$10$UCAXjKa606MfHXE0UJa7seCe9QggHZgKiQVW3FwaFM9NKTFdEQjLa",
+      "firstname": "FELIPE MATHEUS DOS",
+      "lastname": "BARBOSA",
+      "age": 40,
+      "permission": 1,
+      "id": 4
+    }
+  ]
+}
